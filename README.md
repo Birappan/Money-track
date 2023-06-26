@@ -1,5 +1,5 @@
 # Money-track
-Here we are going to discuss the basic process and its basic implementation
+Here we are going to discuss the basic process and its basic implementation.
 
 1)Log in/Signup page 
 This will be the first page of our website in which if user are visiting the website first time then do Sign Up Otherwise do sign in.
